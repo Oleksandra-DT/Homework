@@ -1,0 +1,40 @@
+body {
+	background-image: url("https://cdn.pixabay.com/photo/2016/03/27/07/32/clouds-1282314_960_720.jpg");
+	background-size: cover;
+}
+#Naviagation {
+	color: silver; text-align: center; font-family: fantasy; font-size: 50px;
+}
+#Aboutinfo {
+	color: black; font-family: system-ui; text-align: justify-all;
+}
+#Instruments {
+	background-color: cornflowerblue ; text-align: left; color: white;
+}
+table {
+	 color: black; background-color: darkcyan; 
+}
+#Mercury {
+	background-color: aquamarine;
+}
+#May {
+	background-color: beige;
+}
+#Taylor {
+	background-color: coral;
+}
+#Deacon {
+	background-color: lavender;
+}
+ul {
+	list-style: inside; color: darkgreen: ; list-style-image: url('../images/11.png') ; font-family: cursive;
+}
+#Dropdown {
+	font-family: fantasy; font-size: 20px; text-decoration: underline; color: forestgreen;
+}
+#Comments {
+	background-color: bisque; border-style: dotted;
+}
+#Footer {
+	color: purple; font-size: large; font-family: cursive; font-size: 40px;
+}
